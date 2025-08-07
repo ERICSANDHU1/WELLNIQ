@@ -70,3 +70,6 @@ Contributions are welcome! Please fork this repo and submit a PR.
 
 ## 📜 License  
 This project is licensed under the **MIT License**. 
+
+
+Made with 🔥❤️‍🔥 by [Eric Sandhu](https://github.com/ERICSANDHU1) && [Vanshika](https://github.com/vanshikaraje)
