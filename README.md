@@ -7,7 +7,7 @@
 ## ✨ Features  
 ✔ **Voice-Based Consultation** – Talk naturally to AI doctors.  
 ✔ **Multiple Specialties** – General Physician, Cardiologist, Dermatologist, etc.  
-✔ **Dynamic Voice Selection** – Each doctor has a unique voice.  
+✔ **Dynamic Voice Selection** – Each doctor has a unique voice.     
 ✔ **Secure Authentication** – Powered by **Clerk**.  
 ✔ **Session Management** – Start and continue consultations easily.  
 ✔ **Responsive UI** – Clean, modern interface using **Tailwind CSS** & **Framer Motion**.  
